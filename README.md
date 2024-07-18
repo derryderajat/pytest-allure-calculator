@@ -20,6 +20,7 @@ This project is a simple calculator application with unit tests using `pytest` a
   - [Generating Reports](#generating-reports)
   - [Allure Report Preview](#allure-report-preview)
   - [Contributing](#contributing)
+- [pytest-allure-calculator](#pytest-allure-calculator)
 
 ## Features
 
@@ -41,8 +42,8 @@ This project is a simple calculator application with unit tests using `pytest` a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/calculator-testing.git
-cd calculator-testing
+git clone https://github.com/derryderajat/pytest-allure-calculator.git
+cd pytest-allure-calculator
 ```
 
 ### Create a Virtual Environment
